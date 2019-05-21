@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bnw-B7-Akp"; */
+"bnw-B7-Akp.text" = "0";
+
+/* Class = "UILabel"; text = "Tally Counter"; ObjectID = "s0H-3M-vMK"; */
+"s0H-3M-vMK.text" = "Compteur de pointage";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "xrt-vS-AV3"; */
+"xrt-vS-AV3.normalTitle" = "Réinitialiser";
+
+/* Class = "UIButton"; normalTitle = "Click Me"; ObjectID = "zM3-1v-ebd"; */
+"zM3-1v-ebd.normalTitle" = "clique moi";
